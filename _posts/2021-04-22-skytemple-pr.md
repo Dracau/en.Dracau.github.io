@@ -11,7 +11,7 @@ header:
 
 ![](../assets/images/skytemple-logo.png)
 
-[SkyTemple](https://github.com/SkyTemple) is an open source ROM modification tool for Pokémon Mystery Dungeon: Explorers of Sky.
+[SkyTemple](https://github.com/SkyTemple) is an **open source ROM modification tool** for **Pokémon Mystery Dungeon: Explorers of Sky**.
 
 This project is hosted on **GitHub**, developed in **Python** and depends on the interface design tool [Glade](https://glade.gnome.org/). Since I have a strong attachment to this game and since I wanted to learn how to use these technologies, I contributed to this project.
 
