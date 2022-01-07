@@ -14,7 +14,7 @@ row1:
     title: "Personal Projects"
     excerpt: >
       Projects carried out in a personal context, alone or with friends..
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /projets-personnels/
 
@@ -24,7 +24,7 @@ row2:
     title: "School projects"
     excerpt: >
       Projects carried out in a school context, at Rubika or the CNED.
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /projets-scolaires/
 

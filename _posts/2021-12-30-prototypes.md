@@ -11,13 +11,13 @@ header:
 
 ![](../assets/images/rubika.png)
 
-These prototypes were created in 6 hours for courses or exams on Unity at Rubika.
+These prototypes were created in 6 hours for courses or exams on **Unity** at [Rubika](https://rubika-edu.com/).
 
 - 13 December 2020 : Shoot'em up
 
 ![](../assets/images/shoot-them-up.gif)
 
-- 2 November 2020 : Casse-Briques
+- 2 November 2020 : Brick-breaker
 
 ![](../assets/images/casse-briques.gif)
 

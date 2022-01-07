@@ -14,7 +14,7 @@ row1:
     title: "Wario Ware like"
     excerpt: >
       A game project similar to the Wario Ware series, carried out in cooperation with 40 students, between December 2021 and February 2022.
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /wario-ware/
 
@@ -24,7 +24,7 @@ row2:
     title: "Various prototypes"
     excerpt: >
       Various prototypes produced for exercises or exams at Rubika, between September and December 2021.
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /prototypes/
 
@@ -34,7 +34,7 @@ row3:
     title: "Weather station"
     excerpt: >
       Project completed for a CNED exam in December 2020.
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /station-meteo/
 ---

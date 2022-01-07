@@ -15,7 +15,7 @@ row1:
     title: "Spoops Skirmish"
     excerpt: >
       Spoops Skirmish is a locally playable keyboard fighting game, it was made from the 12th to the 18th of March 2021 as part of the WeeklyGameJam #192 which had the theme "Haunted Object".
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /spoops-skirmish/
 
@@ -25,7 +25,7 @@ row2:
     title: "GT Fighting Game"
     excerpt: >
       Platform fighter project created with a group of friends in August 2021.
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /gt-fighting-game/
 
@@ -35,7 +35,7 @@ row3:
     title: "Tentacle Draft"
     excerpt: >
       Tentacle Draft is a single player endless runner that can be played on the keyboard. It was made from January 1st to 7th 2021 as part of the WeeklyGameJam #182 which had the theme "Cthulhu".
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /tentacle-draft/
 
@@ -45,7 +45,7 @@ row4:
     title: "Contribution SkyTemple"
     excerpt: >
       SkyTemple is an open-source ROM modification tool for Pokémon Mystery Dungeon: Explorers of Sky, since I have a great attachment to this game I contributed to this project.
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /skytemple-pr/
 
@@ -55,7 +55,7 @@ row5:
     title: "Hitori"
     excerpt: >
       Adaptation of a logic game to a mobile game format, carried out between October and November 2021.
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /hitori/
 ---
