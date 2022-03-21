@@ -1,5 +1,5 @@
 ---
-title:  "Wario Ware like"
+title:  "CrimeWare : Neon Heist"
 excerpt: >
   
 classes: wide
@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.3
 ---
 
-![](../assets/images/wario-ware.png)
+![](../assets/images/Crimeware.png)
 
 The **Bachelor Game Programming** year at [Rubika](https://rubika-edu.com/) includes a **Wario Ware like** project running from October 2021 to the end of January 2022.
 
@@ -27,7 +27,7 @@ Here are the mini-games I am working on, this is not their final version, but th
 
 ![](../assets/images/DOC.gif)
 
-In this mini-game, the player has to cross a corridor by hiding behind a trolley, to avoid the guard spotting him with his torch. If he crosses the corridor without being spotted, he has won, if he is spotted or the cart crosses without him, he has lost. I came up with the concept for this mini-game.
+In this mini-game, the player has to cross a corridor by hiding behind a trolley, to avoid the guard spotting him with his torch. If he crosses the corridor without being spotted, he has won, if he is spotted or the cart crosses without him, he has lost. There also is a hidden detection gauge that makes the minigame a bit more forgiving. I came up with the concept for this mini-game.
 
 The **difficulty** affects the size of the cart and its behaviour:
 - In level 1 the cart is wide and crosses in a straight line at a constant speed

@@ -9,9 +9,9 @@ header:
   overlay_image: 
   overlay_filter: 0.3
 row1:
-  - image_path: /assets/images/wario-ware.png
-    alt: "Wario Ware like"
-    title: "Wario Ware like"
+  - image_path: /assets/images/Crimeware.png
+    alt: "CrimeWare : Neon Heist"
+    title: "CrimeWare : Neon Heist"
     excerpt: >
       A game project similar to the Wario Ware series, carried out in cooperation with 40 students, between December 2021 and February 2022.
     btn_label: "<i class='fas fa-info-circle'></i> See more"
