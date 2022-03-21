@@ -37,7 +37,7 @@ row3:
       I recreated the level generation system of Pokémon Mystery Dungeon to learn more about procedural generation.
     btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
-    url: /tentacle-draft/
+    url: /pdm-procedural-generation/
 
 row4:
   - image_path: /assets/images/TentacleDraft.png
