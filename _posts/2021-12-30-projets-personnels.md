@@ -30,6 +30,16 @@ row2:
     url: /gt-fighting-game/
 
 row3:
+  - image_path: /assets/images/pmd-generation.png
+    alt: "PMD procedural generation recreation"
+    title: "PMD procedural generation recreation"
+    excerpt: >
+      I recreated the level generation system of Pokémon Mystery Dungeon to learn more about procedural generation.
+    btn_label: "<i class='fas fa-info-circle'></i> See more"
+    btn_class: "btn--primary"
+    url: /tentacle-draft/
+
+row4:
   - image_path: /assets/images/TentacleDraft.png
     alt: "Tentacle Draft"
     title: "Tentacle Draft"
@@ -39,7 +49,7 @@ row3:
     btn_class: "btn--primary"
     url: /tentacle-draft/
 
-row4:
+row5:
   - image_path: /assets/images/skytemple-logo.png
     alt: "Contribution SkyTemple"
     title: "Contribution SkyTemple"
@@ -49,7 +59,7 @@ row4:
     btn_class: "btn--primary"
     url: /skytemple-pr/
 
-row5:
+row6:
   - image_path: /assets/images/hitorilogo.png
     alt: "Hitori"
     title: "Hitori"
@@ -69,3 +79,5 @@ row5:
 {% include feature_row id="row4" type="right" %}
 
 {% include feature_row id="row5" type="left" %}
+
+{% include feature_row id="row6" type="right" %}
