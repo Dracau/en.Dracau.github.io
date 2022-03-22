@@ -13,7 +13,7 @@ row1:
     alt: "Personal Projects"
     title: "Personal Projects"
     excerpt: >
-      Projects carried out in a personal context, alone or with friends..
+      Projects carried out in a personal context, alone or with friends.
     btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /projets-personnels/

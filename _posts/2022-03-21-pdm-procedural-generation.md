@@ -17,7 +17,7 @@ After some research on the internet and on my side, it seems that this game uses
 
 ![](../assets/images/Nethack.png)
 
-There are many possible "rule sets" in the original game, which force for example large and close rooms for the beginning of the game, and very small and distant rooms for the end of the game. Here I have only created a ruleset resembling the beginning of the game.
+There are many possible "rulesets" in the original game, which force for example large and close rooms for the beginning of the game, and very small and distant rooms for the end of the game. Here I have only created a ruleset resembling the beginning of the game.
 
 ![](../assets/images/pmd-generation.png)
 
