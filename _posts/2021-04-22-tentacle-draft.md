@@ -22,3 +22,5 @@ When the player reaches certain thresholds of points, the difficulty of the game
 I made this game alone in **C#** on **Unity**, it is my first **Jam project** and **my first "complete" game**. Although this game is simple and I couldn't include all my ideas, I'm proud that I was able to produce a playable prototype within the time limit, and this only on my own time.
 
 The feedback on this game has been very encouraging, both from my friends and from the other participants of the Jam, especially as the areas of improvement I was given were the ideas I did not have time to include.
+
+This game isn't very impressive on the technical side, but it's by making it that I discovered that my future job should be game developer, and for that I'm still attached to this game !
