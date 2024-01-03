@@ -24,7 +24,7 @@ row2:
     alt: "School projects"
     title: "School projects"
     excerpt: >
-      Projects carried out in a scholar context, at Rubika or the CNED.
+      Projects carried out in a scholar context, at Rubika or CNED.
     btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /projets-scolaires/
