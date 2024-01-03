@@ -20,11 +20,11 @@ row1:
     url: /projets-professionnels/
 
 row2:
-  - image_path: /assets/images/spellgazer-logo.png
+  - image_path: /assets/images/spellgazer-door.png
     alt: "School projects"
     title: "School projects"
     excerpt: >
-      Projects carried out in a school context, at Rubika or the CNED.
+      Projects carried out in a scholar context, at Rubika or the CNED.
     btn_label: "<i class='fas fa-info-circle'></i> See more"
     btn_class: "btn--primary"
     url: /projets-scolaires/
