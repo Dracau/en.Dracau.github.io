@@ -5,12 +5,12 @@ hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.3
-  overlay_image: /assets/images/tentacle-draft-1.gif
+  overlay_image: /assets/images/eco-runner-animated.gif
 excerpt: >
   Welcome to my portfolio !
 
 row1:
-  - image_path: /assets/images/ecoles.png
+  - image_path: /assets/images/eco-runner.png
     alt: "Professional projects"
     title: "Professional projects"
     excerpt: >
@@ -20,7 +20,7 @@ row1:
     url: /projets-professionnels/
 
 row2:
-  - image_path: /assets/images/ecoles.png
+  - image_path: /assets/images/spellgazer-logo.png
     alt: "School projects"
     title: "School projects"
     excerpt: >
