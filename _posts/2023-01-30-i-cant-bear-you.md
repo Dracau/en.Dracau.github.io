@@ -1,7 +1,7 @@
 ---
-title:  "I can't bear you"
+title: "I Can't Bear You"
 excerpt: >
-  
+
 classes: wide
 header:
   overlay_color: "#5e616c"
@@ -11,12 +11,12 @@ header:
 
 ![](../assets/images/i-cant-bear-you.gif)
 
-La première année de Mastère Game Programming à Rubika comprend un projet à destination de Steam, s'étalant de novembre 2022 à janvier 2023.
+The first year of the Master's in Game Programming at Rubika includes a project for Steam, spanning from November 2022 to January 2023.
 
-Ce projet est réalisé en coopération entre la filière Game Programming et la fillière Game Design, en équipes de 6 élèves.
+This project is a collaboration between the Game Programming and Game Design tracks, with teams of 6 students.
 
-Dans ce jeu on joue un ours qui essaie de dormir mais est gêné par la fête bruyante de son voisin. Le joueur doit donc aller interrompre la fête en tuant le plus de fêtards possibles grâce aux objets trouvables dans la maison.
+In this game, players control a bear trying to sleep but is disturbed by the noisy party next door. The objective is to interrupt the party by eliminating as many people as possible using objects found in the house.
 
 ![](../assets/images/i-cant-bear-you-end.gif)
 
-Dans ce projet j'ai pris le rôle de développeur gameplay et tool. Je me suis principalement concentré sur la modularite du contrôleur du joueur, sur le système d'objets et la fluidité de leur intégration par les tools.
+For this project, I took on the role of gameplay and tool developer. I focused primarily on the modularity of the player controller, the object system, and the smooth integration of objects through the tools.

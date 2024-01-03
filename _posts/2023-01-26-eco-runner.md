@@ -11,15 +11,13 @@ header:
 
 ![](../assets/images/eco-runner-animated.gif)
 
-Mission freelance d’une semaine pour une
-entreprise de conseil en investissement.
+A one-week freelance mission for an investment consulting company.
 
-J’ai été missionné pour créer un runner en 2D dans un univers centré sur
-l’écologie. Les points récoltés par les joueurs étaient convertis en dons pour des associations en lien avec la
-protection de l’environnement.
 
-J'ai aussi créé un outil permettant à l'entreprise des récupérer la liste des joueurs et de leurs scores.
+I was tasked with creating a 2D runner set in an ecological theme. Points earned by players were converted into donations for environmental protection associations.
+
+I also developed a tool for the company to retrieve the list of players and their scores.
 
 ![](../assets/images/eco-runner-score.png)
 
-Cette mission a duré une semaine, j'ai intégralement réalisé le game design et la programmation de ce jeu sur **Unity**, en me basant sur le cahier des charges fourni par l'entreprise.
+This mission lasted a week, during which I handled the entire game design and programming for this game on **Unity**, based on the specifications provided by the company.

@@ -1,7 +1,7 @@
 ---
-title:  "Spellgazer"
+title: "Spellgazer"
 excerpt: >
-  
+
 classes: wide
 header:
   overlay_color: "#5e616c"
@@ -11,26 +11,24 @@ header:
 
 ![](../assets/images/spellgazer-learning-spell.gif)
 
-Le cursus Game de Rubika se termine par une année consacrée entièrement à un projet de jeu, dans mon cas, il s'agit de SpellGazer.
+The Game program at Rubika ends with a year dedicated entirely to a single game project, in my case, it's SpellGazer.
 
-SpellGazer est un jeu solo d'exploration et d'observation, dans lequel le joueur doit trouver des constellations cachées dans l'environnement et les tracer pour apprendre des sortilèges. Grâce à ces sortilèges, il pourra manipuler ce qu'il trouve autour de lui...
+SpellGazer is a single-player exploration and observation game where the player must discover hidden constellations in the environment and trace them to learn spells. With these spells, they can manipulate what they find around them...
 
-Le principal défi de ce projet réside dans les interactions entre les divers éléments du jeu, elles sont nombreuses et ont souvent des cas particuliers :
+The main challenge of this project lies in the interactions between various elements of the game, which are numerous and often have special cases:
 
-Par exemple, avec le sort "Expand", le joueur peut agrandir certains objets, seulement, lorsque certains objets grandissent leur comportement change drastiquement, par exemple les étoiles se mettent à brûler leurs alentours, ce qui conduit les objets exposés à la chaleur à changer leur comportement et ainsi de suite.
+For example, with the "Expand" spell, the player can enlarge certain objects. However, when some objects grow, their behavior changes drastically. For instance, stars start burning their surroundings, leading objects exposed to heat to alter their behavior, and so on.
 
-Ce projet est réalisé en coopération avec une équipe de 10 personne constituée de Game Artists, Designers et Programmers.
+This project is a collaboration with a team of 10 people, including Game Artists, Designers, and Programmers.
 
 ![](../assets/images/spellgazer-burn.gif)
 
-Dans ce projet j'ai pris le rôle de développeur Unreal gameplay et tool. 
+For this project, I took on the role of Unreal gameplay and tool developer.
 
-Je travaille principalement autour des différents sorts, le jeu étant très systémique il faut avoir l'architecture la plus efficace possible.
+I primarily work on different spells; since the game is highly systemic, the architecture must be as efficient as possible.
 
-Etant également développeur de tools, j'ai aussi créé un outil permettant d'intégrer les constellations simplement depuis l'éditeur, et ce de la même façon qu'en jeu. Cet outil fait gagner énormément de temps à l'équipe car sans lui il faudrait entrer point par point les coordonnées du tracé. 
+As a tool developer, I also created a tool that allows easy integration of constellations from the editor, in the same way than in the game. This tool saves a significant amount of time for the team, as without it, one would have to enter coordinates point by point for the trace.
 
 ![](../assets/images/spellgazer-constellation-forger.gif)
 
-Cet outil se base sur le même code que les constellations en jeu, ce qui signifie que l'outil évoluera automatiquement si on modifie la manière de fonctionner des constellations en jeu.
-
-
+This tool is based on the same code as the in-game constellations, meaning that the tool will automatically evolve if we modify the way constellations work in the game.

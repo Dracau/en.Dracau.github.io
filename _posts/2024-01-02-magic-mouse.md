@@ -1,7 +1,7 @@
 ---
-title:  "Magic Mouse"
+title: "Magic Mouse"
 excerpt: >
-  
+
 classes: wide
 header:
   overlay_color: "#5e616c"
@@ -11,12 +11,12 @@ header:
 
 ![](../assets/images/magic-mouse-gameplay.gif)
 
-La première année de Mastère Game Programming à Rubika comprend une double semaine intensive où l'on doit réaliser un Twin Stick Shooter en 2 semaines.
+The first year of the Master's in Game Programming at Rubika includes an intensive two-week period where we have to create a Twin Stick Shooter in 2 weeks.
 
-Ce projet est réalisé en coopération avec des Game Artists, Designers et Programmers.
+This project is a collaboration between Game Artists, Designers, and Programmers.
 
-Dans ce jeu de puzzle coopératif, les 2 joueurs incarnent chacun une souris magicienne. Chaque souris a une couleur assignée, l'une est rouge et l'autre est bleue. Lorsque les joueurs se passent une sphère magique, cette dernière prend les couleurs du joueur la réceptionnant, change la manière dont elle se comporte et confère des pouvoirs à son possesseur...
+In this cooperative puzzle game, two players each control a magical mouse. Each mouse has an assigned color, one is red, and the other is blue. When players pass a magic sphere to each other, it takes the color of the player receiving the sphere, changes its behavior, and grants powers to its possessor...
 
 ![](../assets/images/magic-mouse-gameplay-duo.gif)
 
-Dans ce projet j'ai pris le rôle de développeur Unity gameplay et tool. Je me suis principalement concentré sur la physique de la balle, sur les actions des joueurs et sur un outil permettant de générer le chemin selon une spline.
+For this project, I took on the role of Unity gameplay and tool developer. I primarily focused on the physics of the ball, player actions, and a tool to generate paths along a spline.
